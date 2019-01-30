@@ -1,1 +1,3 @@
 [mine][001]This is mine's Initial Contents
+[mine][002]This is mine's Second Contents
+
